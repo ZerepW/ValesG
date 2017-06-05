@@ -4,7 +4,8 @@
 	</head>
 	<body>
 		<h1>Vales de Gasolina</h1>
+		
 		SMProduciones<br>
-		Zerep, 2017.
+		Zerep, 2017. Version 1.0
 	</body>
 </html>
